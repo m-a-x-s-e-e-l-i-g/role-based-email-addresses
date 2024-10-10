@@ -443,6 +443,7 @@ module.exports = [
   'hsteachers',
   'human_resources',
   'humanresources',
+  'ict',
   'ideas',
   'ifttt',
   'implementation',
