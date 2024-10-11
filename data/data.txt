@@ -93,6 +93,7 @@ announce
 announcements
 ap
 api
+api-user
 api_user
 app
 apple
@@ -441,6 +442,7 @@ hsstaff
 hsteachers
 human_resources
 humanresources
+ict
 ideas
 ifttt
 implementation
