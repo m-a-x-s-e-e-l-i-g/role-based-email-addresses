@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/mixmaxhq/role-based-email-addresses",
   "devDependencies": {
-    "eslint": ">=3",
+    "eslint": ">=9",
     "eslint-config-mixmax": "^0.6.0",
     "pre-commit": "^1.2.2"
   },
